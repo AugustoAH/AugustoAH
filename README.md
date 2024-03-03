@@ -2,7 +2,7 @@
 
 # ¡Hola! 👋 Soy apasionado por la innovación y el desarrollo tecnológico. Permíteme compartir un poco sobre mí...
 
-Soy Edgar Augusto Andrade Higuera, un apasionado Ingeniero de Sistemas especialista en Gestión y Seguridad de Bases de Datos. Tambien tenido experiencia en el diseño y reparación de hardware, con un profundo interés en el análisis y desarrollo de software. Mi trayectoria comenzó con Java, pero mi enfoque actual está en Python y en ampliar mis habilidades en ciencia de datos convirtiendo estos datos brutos en insights valiosos que impulsen la toma de decisiones. Mi experiencia como docente universitario en informática y programación refuerza mi compromiso con la investigación, la cual considero una vía esencial para el crecimiento profesional y la innovación.
+Soy Edgar Augusto Andrade Higuera, un apasionado Ingeniero de Sistemas especialista en Gestión y Seguridad de Bases de Datos. Mi experiencia abarca campos como el diseño y reparación de hardware, con un profundo interés en el análisis y desarrollo de software. Comencé programando en Java, pero ahora estoy centrado en Python y en enriquecer mis competencias en ciencia de datos convirtiendo estos datos brutos en insights valiosos que impulsen la toma de decisiones. Además, como docente universitario en informática, fomento la investigación, un pilar fundamental para mi desarrollo profesional y la innovación.
 
 ## Summary 📊
 
