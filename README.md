@@ -8,11 +8,11 @@ Soy Edgar Augusto Andrade Higuera, un apasionado Ingeniero de Sistemas especiali
 
 | Universidad                         |                                  | Información                                    |
 | ---------------------------------- | ----------------------------------------- | ---------------------------------------------- |
-| **Universidad Nacional Abierta y a distancia UNAD**              | <img src="logo_unad.jpg" alt="UNAD University Logo" width="70">| - **Grado:** Ingeniero de Sistemas<br>- **Enfoque:** Desarrollo de Software<br>- **Año Graduación:** 2024 |
-| **Servicio Nacional de Aprendizaje SENA**           | logo | - **Grado:** Especialización Tecnológica<br>- **Enfoque:** Gestión y seguridad de Bases de Datos<br>- **Año Graduación:** 2020 |
-| **Universidad del Valle**           | logo | - **Grado:** Tecnológo en Sistemas de Información<br>- **Enfoque:** Desarrollo de Software <br>- **Año Graduación:** 2018 |
-| **Universidad del Valle** | logo | - **Grado:** Tecnólogo en Electrónica<br>- **Enfoque:** Automatización<br>- **Año Graduación:** 2013 |
-| **Instituto de Educación Técnica Profesional INTEP**                | logo> | - **Grado:** Técnico Profesional en Sistemas e Informática<br>- **Enfoque:** Soporte TI<br>- **Año Graduación:** 2011 |
+| **Universidad Nacional Abierta y a distancia UNAD**              | <img src="logo_unad.jpg" alt="UNAD University Logo" width="40">| - **Grado:** Ingeniero de Sistemas<br>- **Enfoque:** Desarrollo de Software<br>- **Año Graduación:** 2024 |
+| **Servicio Nacional de Aprendizaje SENA**           | <img src="SENA.jpg" alt="SENA University Logo" width="40"> | - **Grado:** Especialización Tecnológica<br>- **Enfoque:** Gestión y seguridad de Bases de Datos<br>- **Año Graduación:** 2020 |
+| **Universidad del Valle**           | <img src="univalle.jpg" alt="Univalle University Logo" width="40">  | - **Grado:** Tecnológo en Sistemas de Información<br>- **Enfoque:** Desarrollo de Software <br>- **Año Graduación:** 2018 |
+| **Universidad del Valle** | <img src="univalle.jpg" alt="SENA University Logo" width="40">  | - **Grado:** Tecnólogo en Electrónica<br>- **Enfoque:** Automatización<br>- **Año Graduación:** 2013 |
+| **Instituto de Educación Técnica Profesional INTEP**                | <img src="intep.png" alt="intep University Logo" width="40">  | - **Grado:** Técnico Profesional en Sistemas e Informática<br>- **Enfoque:** Soporte TI<br>- **Año Graduación:** 2011 |
 
 
 ## Professional Experience 💼
