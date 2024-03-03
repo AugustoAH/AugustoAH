@@ -4,21 +4,15 @@
 
 Soy Edgar Augusto Andrade Higuera, un apasionado Ingeniero de Sistemas especialista en Gestión y Seguridad de Bases de Datos. Mi experiencia abarca campos como el diseño y reparación de hardware, con un profundo interés en el análisis y desarrollo de software. Comencé programando en Java, pero ahora estoy centrado en Python y en enriquecer mis competencias en ciencia de datos convirtiendo estos datos brutos en insights valiosos que impulsen la toma de decisiones. Además, como docente universitario en informática, fomento la investigación, un pilar fundamental para mi desarrollo profesional y la innovación.
 
-## Summary 📊
+## Educación 🎓
 
-Passionate about Analytics and Machine Learning, I am eager to machine learning models to generate impact in Business KPIs. I strongly desire to pursue a career as a Data Scientist in the Consulting, Technology & Retail sectors.
-
-During my experience of +5 years in Data & Analytics roles, I have developed solutions using descriptive and predictive analytics using Python, SQL, R, and data visualization tools like Tableau and Power BI. I am also passionate about sharing my analytics knowledge, and as a result, I give lectures in Data Analytics courses at Peruvian Universities, and in other institutions worldwide.
-
-## Education 🎓
-
-| University                         |                                  | Information                                    |
+| Universidad                         |                                  | Información                                    |
 | ---------------------------------- | ----------------------------------------- | ---------------------------------------------- |
-| **McGill University**              | <img src="mcgill.png" alt="McGill University Logo" width="100"> | - **Degree:** Master of Management Analytics<br>- **Location:** Montreal, Canada<br>- **Graduation Year:** 2024 |
-| **Los Andes University**           | <img src="losandes.png" alt="Los Andes University Logo" width="100"> | - **Degree:** Master of Data Intelligence<br>- **Location:** Bogotá, Colombia<br>- **Graduation Year:** 2023 |
-| **Adolfo Ibañez University**           | <img src="https://carleton.ca/isso/wp-content/uploads/UAI.jpg" alt="Adolfo Ibanez University Logo" width="100"> | - **Degree:** Master of Data Science<br>- **Location:** Santiago, Chile<br>- **Graduation Year:** 2022 |
-| **Pontifical Catholic University of Peru** | <img src="pucp.jpeg" alt="PUCP Logo" width="100"> | - **Degree:** Master of Business Administration<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2021 |
-| **ESAN University**                | <img src="esan.jpeg" alt="ESAN University Logo" width="100"> | - **Degree:** Bachelor of Organizational Psychology<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2017 |
+| **Universidad Nacional Abierta y a distancia UNAD**              | <img src="mcgill.png" alt="McGill University Logo" width="100"> | - **Degree:** Master of Management Analytics<br>- **Location:** Montreal, Canada<br>- **Graduation Year:** 2024 |
+| **Servicio Nacional de Aprendizaje SENA**           | <img src="losandes.png" alt="Los Andes University Logo" width="100"> | - **Degree:** Master of Data Intelligence<br>- **Location:** Bogotá, Colombia<br>- **Graduation Year:** 2023 |
+| **Universidad del Valle**           | <img src="https://carleton.ca/isso/wp-content/uploads/UAI.jpg" alt="Adolfo Ibanez University Logo" width="100"> | - **Degree:** Master of Data Science<br>- **Location:** Santiago, Chile<br>- **Graduation Year:** 2022 |
+| **Universidad del Valle** | <img src="pucp.jpeg" alt="PUCP Logo" width="100"> | - **Degree:** Master of Business Administration<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2021 |
+| **Instituto de Educación técnica profesional INTEP**                | <img src="esan.jpeg" alt="ESAN University Logo" width="100"> | - **Degree:** Bachelor of Organizational Psychology<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2017 |
 
 
 ## Professional Experience 💼
