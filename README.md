@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=AugustoAH&color=blue)
+![](https://komarev.com/ghpvc/?username=AugustoAH&color=red)
 
 # Welcome to Coffee and Data 🚀
 
