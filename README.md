@@ -15,6 +15,7 @@ Soy Edgar Augusto Andrade Higuera, un apasionado Ingeniero de Sistemas especiali
 | **Instituto de Educación Técnica Profesional INTEP**                | <img src="intep.png" alt="intep University Logo" width="40">  | - **Grado:** Técnico Profesional en Sistemas e Informática<br>- **Enfoque:** Soporte TI<br>- **Año Graduación:** 2011 |
 
 
+<!--
 ## Professional Experience 💼
 
 * **Data Scientist** - [Belcorp](https://www.belcorp.biz/en/) 💄 (Cosmetics industry) *Mar 2022 - Present*
@@ -28,7 +29,6 @@ Soy Edgar Augusto Andrade Higuera, un apasionado Ingeniero de Sistemas especiali
 
 
 
-<!--
 ### Data Scientist | Belcorp | *Mar 2022 - Present*
 
 - Developed Machine Learning models to predict demand of beauty products sold in digital channels, resulting in error reduction of 36% allowing to improve accuracy of stock forecasting for supply chain
@@ -62,7 +62,7 @@ Data
 - Technologies Used: [List of Technologies/Languages]
 - [Link to Project Repository]
 
--->
+
 ## Technologies Used
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" />](https://www.python.org/)
@@ -80,6 +80,8 @@ Data
 * Coffee! ☕️
 * Craft Beer 🍺
 * Teaching 🎓
+
+-->
 
 ## Let's Connect! 🌐
 
