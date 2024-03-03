@@ -8,7 +8,7 @@ Soy Edgar Augusto Andrade Higuera, un apasionado Ingeniero de Sistemas especiali
 
 | Universidad                         |                                  | Información                                    |
 | ---------------------------------- | ----------------------------------------- | ---------------------------------------------- |
-| **Universidad Nacional Abierta y a distancia UNAD**              | logo| - **Grado:** Ingeniero de Sistemas<br>- **Enfoque:** Desarrollo de Software<br>- **Año Graduación:** 2024 |
+| **Universidad Nacional Abierta y a distancia UNAD**              | <img src="logo_unad.jpg" alt="UNAD University Logo" width="70">| - **Grado:** Ingeniero de Sistemas<br>- **Enfoque:** Desarrollo de Software<br>- **Año Graduación:** 2024 |
 | **Servicio Nacional de Aprendizaje SENA**           | logo | - **Grado:** Especialización Tecnológica<br>- **Enfoque:** Gestión y seguridad de Bases de Datos<br>- **Año Graduación:** 2020 |
 | **Universidad del Valle**           | logo | - **Grado:** Tecnológo en Sistemas de Información<br>- **Enfoque:** Desarrollo de Software <br>- **Año Graduación:** 2018 |
 | **Universidad del Valle** | logo | - **Grado:** Tecnólogo en Electrónica<br>- **Enfoque:** Automatización<br>- **Año Graduación:** 2013 |
