@@ -81,8 +81,9 @@ Data
 * Craft Beer 🍺
 * Teaching 🎓
 
--->
+
 
 ## Let's Connect! 🌐
 
 I'm always open to collaboration and discussion. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/carlosadrianalarcon/?locale=en_US). Let's explore the fascinating world of data science together! 🌍✨
+-->
