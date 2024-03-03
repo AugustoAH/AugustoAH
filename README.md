@@ -8,11 +8,11 @@ Soy Edgar Augusto Andrade Higuera, un apasionado Ingeniero de Sistemas especiali
 
 | Universidad                         |                                  | Información                                    |
 | ---------------------------------- | ----------------------------------------- | ---------------------------------------------- |
-| **Universidad Nacional Abierta y a distancia UNAD**              | <img src="mcgill.png" alt="McGill University Logo" width="100"> | - **Degree:** Master of Management Analytics<br>- **Location:** Montreal, Canada<br>- **Graduation Year:** 2024 |
-| **Servicio Nacional de Aprendizaje SENA**           | <img src="losandes.png" alt="Los Andes University Logo" width="100"> | - **Degree:** Master of Data Intelligence<br>- **Location:** Bogotá, Colombia<br>- **Graduation Year:** 2023 |
-| **Universidad del Valle**           | <img src="https://carleton.ca/isso/wp-content/uploads/UAI.jpg" alt="Adolfo Ibanez University Logo" width="100"> | - **Degree:** Master of Data Science<br>- **Location:** Santiago, Chile<br>- **Graduation Year:** 2022 |
-| **Universidad del Valle** | <img src="pucp.jpeg" alt="PUCP Logo" width="100"> | - **Degree:** Master of Business Administration<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2021 |
-| **Instituto de Educación técnica profesional INTEP**                | <img src="esan.jpeg" alt="ESAN University Logo" width="100"> | - **Degree:** Bachelor of Organizational Psychology<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2017 |
+| **Universidad Nacional Abierta y a distancia UNAD**              | logo| - **Grado:** Ingeniero de Sistemas<br>- **Enfoque:** Desarrollo de Software<br>- **Año Graduación:** 2024 |
+| **Servicio Nacional de Aprendizaje SENA**           | logo | - **Grado:** Especialización Tecnológica<br>- **Enfoque:** Gestión y seguridad de Bases de Datos<br>- **Año Graduación:** 2020 |
+| **Universidad del Valle**           | logo | - **Grado:** Tecnológo en Sistemas de Información<br>- **Enfoque:** Desarrollo de Software <br>- **Año Graduación:** 2018 |
+| **Universidad del Valle** | logo | - **Grado:** Tecnólogo en Electrónica<br>- **Enfoque:** Automatización<br>- **Año Graduación:** 2013 |
+| **Instituto de Educación Técnica Profesional INTEP**                | logo> | - **Grado:** Técnico Profesional en Sistemas e Informática<br>- **Enfoque:** Soporte TI<br>- **Año Graduación:** 2011 |
 
 
 ## Professional Experience 💼
