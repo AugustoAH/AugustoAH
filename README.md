@@ -1,6 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=AugustoAH&color=red)
 
-# Welcome to Coffee and Data 🚀
+# ¡Hola! 👋 Soy apasionado por la innovación y el desarrollo tecnológico. Permíteme compartir un poco sobre mí...
+
+Soy Edgar Augusto Andrade Higuera, un apasionado Ingeniero de Sistemas especialista en Gestión y Seguridad de Bases de Datos. Tambien tenido experiencia en el diseño y reparación de hardware, con un profundo interés en el análisis y desarrollo de software. Mi trayectoria comenzó con Java, pero mi enfoque actual está en Python y en ampliar mis habilidades en ciencia de datos convirtiendo estos datos brutos en insights valiosos que impulsen la toma de decisiones. Mi experiencia como docente universitario en informática y programación refuerza mi compromiso con la investigación, la cual considero una vía esencial para el crecimiento profesional y la innovación.
+
+
+
+
+
+
+y son un gran apasionado por la programación , la ciuencia de datos y el desarrollo de 
 
 Welcome to my data science realm! 👋 I'm **Adrian Alarcon**, a passionate data scientist who loves transforming raw data into actionable insights. This GitHub repository serves as a playground where I experiment with cutting-edge techniques, share my projects, and showcase my journey in the world of data.
 
